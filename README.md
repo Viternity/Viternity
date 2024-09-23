@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+# I'm new here but learning to program properly!
+I also have a website [charlies.marketing](see it here!)
+
 <!--
 **Viternity/Viternity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
